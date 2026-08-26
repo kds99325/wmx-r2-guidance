@@ -13,6 +13,7 @@ An interactive guide using Jupyter Notebook and Python to easily set up and test
 **Prerequisites:** Ubuntu 22.04/24.04, ROS 2 (Humble/Jazzy), WMX3 Engine, JupyterLab
 
 ```bash
+mkdir -p ~/workspaces/movensys_ws/src
 git clone [https://github.com/kds99325/wmx-r2-guidance.git](https://github.com/kds99325/wmx-r2-guidance.git)
 cd wmx-r2-guidance
 jupyter lab
